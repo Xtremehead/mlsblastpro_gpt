@@ -1,4 +1,3 @@
-import './index.css';
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Eye, Pencil, Send, FileText, Plus, Link } from "lucide-react";
