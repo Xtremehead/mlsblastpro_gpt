@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 import { Eye, Pencil, Send, FileText, Plus, Link } from "lucide-react";
 import { ResponsiveContainer, PieChart, Pie, Cell } from "recharts";
 
